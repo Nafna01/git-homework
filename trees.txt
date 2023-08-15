@@ -1,8 +1,2 @@
 oak
 pine
-pecan
-apple
-coconut
-pistachio
-papaya
-
